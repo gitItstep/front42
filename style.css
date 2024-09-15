@@ -3,3 +3,14 @@ body {
     color: #fff;
     text-align: center;
 }
+
+footer{
+    max-width: 1000px;
+    height: 50px;
+    margin-top: 30px;
+    font-size: 30px;
+    text-align: center;
+    background-color: #f43030;
+    border-radius: 10px;
+    color: black;
+}
